@@ -1,0 +1,10 @@
+.blue{
+    width: 64px;
+    height: 64px;
+}
+
+.red{
+    width: 750px;
+    height: 750px;
+    object-fit: cover;
+}
